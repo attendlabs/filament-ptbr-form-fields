@@ -1,12 +1,12 @@
 {
-    "name": "leandrocfe/filament-ptbr-form-fields",
+    "name": "attendlabs/filament-ptbr-form-fields",
     "description": "Brazilian pt-BR form fields.",
     "keywords": [
         "leandrocfe",
         "laravel",
         "filament-ptbr-form-fields"
     ],
-    "homepage": "https://github.com/leandrocfe/filament-ptbr-form-fields",
+    "homepage": "https://github.com/attendlabs/filament-ptbr-form-fields",
     "license": "MIT",
     "authors": [
         {
